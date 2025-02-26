@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React Native , MySql , Python , MongoDB , API**
 
 - 📫 How to reach me **krupalisuhagiya2@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
